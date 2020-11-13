@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/felin/CLionProjects/management/ContactList.h
+string
+-
+iostream
+-
+fstream
+-
+
+C:/Users/felin/CLionProjects/management/To_do_list.cpp
+To_do_list.h
+C:/Users/felin/CLionProjects/management/To_do_list.h
+
+C:/Users/felin/CLionProjects/management/To_do_list.h
+iostream
+-
+string
+-
+fstream
+-
+vector
+-
+
+C:/Users/felin/CLionProjects/management/main.cpp
+iostream
+-
+ContactList.h
+C:/Users/felin/CLionProjects/management/ContactList.h
+To_do_list.h
+C:/Users/felin/CLionProjects/management/To_do_list.h
+

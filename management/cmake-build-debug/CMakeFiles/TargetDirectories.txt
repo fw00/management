@@ -1,0 +1,3 @@
+C:/Users/felin/CLionProjects/management/cmake-build-debug/CMakeFiles/management.dir
+C:/Users/felin/CLionProjects/management/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/felin/CLionProjects/management/cmake-build-debug/CMakeFiles/rebuild_cache.dir

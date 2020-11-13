@@ -1,0 +1,24 @@
+This project is created for users to manage their contacts and to do's
+     - by running the code the menu is activated and let's the user choose between managing their contact list or to do list
+     - based on that the user will get other choices e.g. changing the contacts/tasks or deleting the contact or filtering the to dos
+
+
+It is created by Feline Waardenburg & Yujia Kong
+For Programming in Engineering 11-11-2020, University of Twente
+
+Files include:
+main.cpp
+ContactList.cpp
+ContactList.h
+Contact.cpp
+Contact.h
+To_do_list.cpp
+To_do_list.h
+(tdl.txt)
+(contacts.txt)
+
+- This program is made with C-lion
+
+// This code is based on exercise 22.2 of the Script by Thomas Weinhart, Anthony Thornton,
+// Wouter den Otter, Deepak Tunuguntla, Kit Windows-Yule,
+// Katja Bertoldi, Holger Steeb and Stefan Luding
